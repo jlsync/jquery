@@ -12,8 +12,8 @@ yarn.lock
 npm-debug.log*
 
 # Ignore everything in dist folder except for eslint config
-/dist/*
-!/dist/.eslintrc.json
+#JASON/dist/*
+#JASON!/dist/.eslintrc.json
 
 /node_modules
 
